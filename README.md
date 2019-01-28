@@ -4,7 +4,7 @@ This is a PyTorch implementation of horizontal circular convolution adaptable to
 
 ## Example
 
-The figures below visualize gradients in 16x16 image space after proceeding multiple convolutions. The input image and convolution filters are initialized with a constant number of 1.
+The figures below visualize gradients in 16x16 image space after proceeding multiple convolutions. The input image and convolution filters are initialized with a constant value of 1.
 
 ```
 python main.py
